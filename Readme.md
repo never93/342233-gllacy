@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Кристина Асипова](https://up.htmlacademy.ru/htmlcss/20/user/342233).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Кошара](https://htmlacademy.ru/profile/rednaxxxela).
 
 ---
 
